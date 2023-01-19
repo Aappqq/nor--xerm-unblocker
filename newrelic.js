@@ -8,7 +8,7 @@ exports.config = {
     /**
      * Array of application names.
      */
-    app_name: ['Node Unblocker'],
+    app_name: ['Xerm Unblocker'],
     /**
      * Your New Relic license key.
      */
