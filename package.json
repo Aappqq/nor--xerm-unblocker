@@ -1,10 +1,10 @@
 {
-  "name": "nodeunblocker.com",
+  "name": "xerm.dev",
   "description": "Web proxy for evading internet censorship",
-  "author": "Nathan Friedly - http://nfriedly.com",
+  "author": "xerm - xerm#0001 or zurg#0001",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/nfriedly/nodeunblocker.com/",
+  "homepage": "xerm.dev",
   "dependencies": {
     "express": "^4.13.0",
     "gatling": "^2.0.0",
