@@ -1,11 +1,12 @@
 /***************
- * node-unblocker: Web Proxy for evading firewalls and content filters,
+ * xerm-unblocker: Web Proxy for evading firewalls and content filters,
  * similar to CGIProxy or PHProxy
  *
  *
  * This project is hosted on github:  https://github.com/nfriedly/nodeunblocker.com
  *
- * By Nathan Friedly - http://nfriedly.com
+ * By zurg#0001 - http://xerm.dev
+ 
  * Released under the terms of the Affero GPL v3
  */
 
